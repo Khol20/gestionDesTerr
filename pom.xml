@@ -77,6 +77,7 @@
         <validation-api.version>3.0.2</validation-api.version>
         <sonar.organization>khol20</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.login>e2c5b86a46f43e18b1b391fde0bde9721712d01b</sonar.login>
     </properties>
 
     <dependencyManagement>
