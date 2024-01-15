@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = cpm.gestion.terrs.\
+    config.SqlTestContainersSpringContextCustomizerFactory
